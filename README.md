@@ -1,10 +1,7 @@
 # File Metadata App - Freecodecamp.org
 
 
-Quinto e último desafio da série para a certificação **Back End Development and APIs**, com o objetivo de produzir uma aplicação backend 
-
-
-.[^1].
+Quinto e último desafio da série para a certificação **Back End Development and APIs**, com o objetivo de produzir uma aplicação backend que recebe arquivos de upload a partir de um arquivo html e responde a requisição devolvendo informações de metadados sobre o arquivo do upload.[^1]
 
 <br />
 
