@@ -25,8 +25,8 @@ Dependências:
 
 <br />
 
-### Exercise Tracker App home page:          
-![Exercise Tracker App home page](/public/images/)
+### File Metadata App home page:          
+![File Metadata App home page](/public/images/file-metadata-microservice-home-page.png)
 
 
 
@@ -87,7 +87,7 @@ Dependências:
 <br />
 
 ### Resultado final do projeto em Freecodecamp.org:               
-![Resultado final do projeto em Freecodecamp.org](/public/images/)
+![Resultado final do projeto em Freecodecamp.org](/public/images/metadata-microservice-freecodecamp.png)
 
 
 
