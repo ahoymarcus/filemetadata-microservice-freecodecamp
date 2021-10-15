@@ -18,6 +18,7 @@ Dependências:
 - Express-JS
 - Cors
 - Nodemon
+- Multer
 
 
 
